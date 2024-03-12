@@ -1,0 +1,11 @@
+.register{
+    width: 300px;
+    height: 300px;
+    z-index: 20;
+    background-color: #fff;
+}
+
+.regg{
+    z-index: 0;
+    background-color: gray;
+}
